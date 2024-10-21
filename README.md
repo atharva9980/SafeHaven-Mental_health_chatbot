@@ -1,3 +1,6 @@
+![Screenshot 2024-10-21 171713](https://github.com/user-attachments/assets/a85ed6e8-49e1-4718-998d-20f36611b79f)
+![Screenshot 2024-10-21 171701](https://github.com/user-attachments/assets/9be03258-9c9d-478d-a0f2-ce8eac3a68af)
+![Screenshot 2024-10-21 171639](https://github.com/user-attachments/assets/fabdeb24-6ae5-41c1-a468-31eef1661d54)
 # SafeHaven-Mental_health_chatbot
 this is a mental health chatbot which is built using llm and RAG pipeline
 SafeHaven
