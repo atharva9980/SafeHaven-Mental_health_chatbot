@@ -15,14 +15,25 @@ Information Retrieval: Utilizes external resources and documents to provide up-t
 Personalized Suggestions: Offers tailored suggestions to help users cope with anxiety, depression, and other mental health challenges.
 Document Similarity Search: Displays the most relevant documents based on user queries and their similarity scores.
 User-Friendly Interface: Built with Streamlit for an intuitive user experience.
+
+
+
+
+
+
+
 Technologies Used
-Language Model: LLM based on the GROQ API for generating responses.
-Retrieval-Augmented Generation (RAG): Combines retrieval of information and generative capabilities for comprehensive answers.
-Document Loaders: Fetches information from PDF documents and web sources using PyPDFLoader.
-Vector Store: Implements FAISS for efficient document retrieval.
-Semantic Similarity: Utilizes SentenceTransformer for computing document similarity.
-Web Scraping: Uses BeautifulSoup for extracting content from external websites.
-Environment Management: Uses dotenv for managing environment variables.
+1.Language Model: LLM based on the GROQ API for generating responses.
+2.Retrieval-Augmented Generation (RAG): Combines retrieval of information and generative capabilities for comprehensive answers.
+3.Document Loaders: Fetches information from PDF documents and web sources using PyPDFLoader.
+4.Vector Store: Implements FAISS for efficient document retrieval.
+5.Semantic Similarity: Utilizes SentenceTransformer for computing document similarity.
+6.Web Scraping: Uses BeautifulSoup for extracting content from external websites.
+7.Environment Management: Uses dotenv for managing environment variables.
+
+
+
+
 
 Getting Started
 To run the SafeHaven chatbot locally, follow these steps:
