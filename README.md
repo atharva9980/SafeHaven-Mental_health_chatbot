@@ -55,6 +55,13 @@ python -m venv venv
 
 
 #mac/linux
+
+
+
+
+
+
+
 source venv/bin/activate  
 
 # On Windows use
@@ -72,6 +79,15 @@ pip install -r requirements.txt
 
 
 4. streamlit run app.py
+
+
+
+
+
+
+
+
+
  Set Up Environment Variables:
 
 
