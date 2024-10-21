@@ -43,7 +43,17 @@ cd SafeHaven
 
 
 2.Create a virtual environment (optional but recommended):
+
+
+
+
+
 python -m venv venv
+
+
+
+
+
 #mac/linux
 source venv/bin/activate  
 
