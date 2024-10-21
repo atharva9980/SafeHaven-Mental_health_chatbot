@@ -23,6 +23,11 @@ User-Friendly Interface: Built with Streamlit for an intuitive user experience.
 
 
 Technologies Used
+
+
+
+
+
 1.Language Model: LLM based on the GROQ API for generating responses.
 
 
@@ -71,6 +76,11 @@ Getting Started
 To run the SafeHaven chatbot locally, follow these steps:
 
 Prerequisites
+
+
+
+
+
 Python 3.7 or later
 
 
@@ -84,6 +94,10 @@ Installation
 
 
 1.Clone the repository:
+
+
+
+
 git clone https://github.com/yourusername/SafeHaven.git
 cd SafeHaven
 
@@ -113,17 +127,22 @@ python -m venv venv
 
 source venv/bin/activate  
 
-# On Windows use
+On Windows use
+
+
 venv\Scripts\activate
 
 
 
 
-
 3.Install the required packages:
+
+
+
 pip install -r requirements.txt
 
 
+In agents folder navigate to app.py 
 
 
 
@@ -162,6 +181,13 @@ Simply enter your query about mental health, and SafeHaven will respond with inf
 "What are the signs of depression?"
 "Can you suggest techniques to overcome stress?"
 The chatbot also provides a document similarity search feature, showing the most relevant documents related to your query along with their similarity scores.
+
+
+
+
+For just the IPYNB file navigate to new.ipynb file in agents folder of the same project
+
+
 Contact Information : atharvanarkhede0105@gmail.com
 
 
