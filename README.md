@@ -99,6 +99,12 @@ Installation
 
 
 git clone https://github.com/atharva9980/SafeHaven-Mental_health_chatbot.git
+
+
+
+
+
+
 cd SafeHaven
 
 
