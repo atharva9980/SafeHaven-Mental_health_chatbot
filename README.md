@@ -5,11 +5,10 @@
 ![Screenshot 2024-10-21 171713](https://github.com/user-attachments/assets/3750ffa8-8770-47a1-93f1-37d381e09df7)
 
 # SafeHaven-Mental_health_chatbot
-this is a mental health chatbot which is built using llm and RAG pipeline
-SafeHaven
+
 SafeHaven is a mental health chatbot designed to provide support and information on various mental health issues such as anxiety and depression and many other mental issues. The chatbot leverages a state-of-the-art Large Language Model (LLM) and a Retrieval-Augmented Generation (RAG) pipeline to deliver accurate and helpful responses to user queries.
 
-Features
+# Features
 Interactive Chatbot: Engage with the chatbot to ask questions related to mental health.
 Information Retrieval: Utilizes external resources and documents to provide up-to-date information.
 Personalized Suggestions: Offers tailored suggestions to help users cope with anxiety, depression, and other mental health challenges.
@@ -22,7 +21,7 @@ User-Friendly Interface: Built with Streamlit for an intuitive user experience.
 
 
 
-Technologies Used
+# Technologies Used
 
 
 
@@ -72,10 +71,12 @@ Technologies Used
 
 
 
-Getting Started
+# Getting Started
+
+
 To run the SafeHaven chatbot locally, follow these steps:
 
-Prerequisites
+# Prerequisites
 
 
 
@@ -86,14 +87,14 @@ Python 3.7 or later
 
 
 
-Virtual environment (recommended)
-Installation
+# Virtual environment (recommended) Installation
 
 
 
 
 
-1.Clone the repository:
+
+# 1.Clone the repository:
 
 
 
@@ -111,7 +112,7 @@ cd SafeHaven
 
 
 
-2.Create a virtual environment (optional but recommended):
+# 2.Create a virtual environment (optional but recommended):
 
 
 
@@ -141,14 +142,14 @@ venv\Scripts\activate
 
 
 
-3.Install the required packages:
+# 3.Install the required packages:
 
 
 
 pip install -r requirements.txt
 
 
-In agents folder navigate to app.py 
+# In agents folder navigate to app.py 
 
 
 
@@ -162,7 +163,7 @@ In agents folder navigate to app.py
 
 
 
- Set Up Environment Variables:
+ # Set Up Environment Variables:
 
 
 
@@ -176,7 +177,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 
 
-Usage
+# Usage
 
 
 
@@ -191,7 +192,7 @@ The chatbot also provides a document similarity search feature, showing the most
 
 
 
-For just the IPYNB file navigate to new.ipynb file in agents folder of the same project
+# For just the IPYNB file navigate to new.ipynb file in agents folder of the same project
 
 
 Contact Information : atharvanarkhede0105@gmail.com
