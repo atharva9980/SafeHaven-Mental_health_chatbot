@@ -23,25 +23,64 @@ To run the SafeHaven chatbot locally, follow these steps:
 
 Prerequisites
 Python 3.7 or later
+
+
+
+
 Virtual environment (recommended)
 Installation
+
+
+
+
+
 1.Clone the repository:
 git clone https://github.com/yourusername/SafeHaven.git
 cd SafeHaven
+
+
+
+
+
 2.Create a virtual environment (optional but recommended):
 python -m venv venv
 #mac/linux
 source venv/bin/activate  
+
 # On Windows use
 venv\Scripts\activate
+
+
+
+
+
 3.Install the required packages:
 pip install -r requirements.txt
+
+
+
+
+
 4. streamlit run app.py
  Set Up Environment Variables:
 
+
+
+
+
+
 Create a .env file in the project root and add your Groq API key:
 GROQ_API_KEY=your_groq_api_key_here
+
+
+
+
+
 Usage
+
+
+
+
 Simply enter your query about mental health, and SafeHaven will respond with informative answers and suggestions. For example, you can ask:
 
 "How can I manage my anxiety?"
