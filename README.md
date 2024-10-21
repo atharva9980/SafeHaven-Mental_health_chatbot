@@ -24,11 +24,43 @@ User-Friendly Interface: Built with Streamlit for an intuitive user experience.
 
 Technologies Used
 1.Language Model: LLM based on the GROQ API for generating responses.
+
+
+
+
+
 2.Retrieval-Augmented Generation (RAG): Combines retrieval of information and generative capabilities for comprehensive answers.
+
+
+
+
+
+
 3.Document Loaders: Fetches information from PDF documents and web sources using PyPDFLoader.
+
+
+
+
+
+
 4.Vector Store: Implements FAISS for efficient document retrieval.
+
+
+
+
+
 5.Semantic Similarity: Utilizes SentenceTransformer for computing document similarity.
+
+
+
+
 6.Web Scraping: Uses BeautifulSoup for extracting content from external websites.
+
+
+
+
+
+
 7.Environment Management: Uses dotenv for managing environment variables.
 
 
