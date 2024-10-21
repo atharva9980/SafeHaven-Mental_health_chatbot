@@ -1,7 +1,7 @@
 # SafeHaven-Mental_health_chatbot
 this is a mental health chatbot which is built using llm and RAG pipeline
 SafeHaven
-SafeHaven is a mental health chatbot designed to provide support and information on various mental health issues such as anxiety and depression. The chatbot leverages a state-of-the-art Large Language Model (LLM) and a Retrieval-Augmented Generation (RAG) pipeline to deliver accurate and helpful responses to user queries.
+SafeHaven is a mental health chatbot designed to provide support and information on various mental health issues such as anxiety and depression and many other mental issues. The chatbot leverages a state-of-the-art Large Language Model (LLM) and a Retrieval-Augmented Generation (RAG) pipeline to deliver accurate and helpful responses to user queries.
 
 Features
 Interactive Chatbot: Engage with the chatbot to ask questions related to mental health.
